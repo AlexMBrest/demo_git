@@ -37,3 +37,4 @@ If you want to compile Zebra yourself, you can use the following steps. A comput
 3. run `make do`
    1. If you don't have `theos` already installed on your computer, follow the steps located [here](https://github.com/theos/theos/wiki/Installation).
 4. Done!
+# demo_git
